@@ -1,0 +1,12 @@
+name: keywords_trend
+title: Keywords Trend
+username: danpliu
+account: danpliu
+server: bu-rstudio-connect.bu.edu
+hostUrl: https://bu-rstudio-connect.bu.edu/__api__
+appId: 43
+bundleId: 105
+url: https://bu-rstudio-connect.bu.edu/content/43/
+when: 1607973760.11511
+asMultiple: FALSE
+asStatic: FALSE
