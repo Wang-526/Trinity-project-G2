@@ -1,0 +1,12 @@
+name: covid-trends
+title: COVID-Trends
+username: hwang601
+account: hwang601
+server: bu-rstudio-connect.bu.edu
+hostUrl: https://bu-rstudio-connect.bu.edu/__api__
+appId: 42
+bundleId: 104
+url: https://bu-rstudio-connect.bu.edu/content/42/
+when: 1607973363.75104
+asMultiple: FALSE
+asStatic: FALSE
